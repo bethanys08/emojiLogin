@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "977453679683",
+    "firebase_url": "https://emojilogin-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "emojilogin",
+    "storage_bucket": "emojilogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977453679683:android:39cf6b010fed5d198a00f6",
+        "android_client_info": {
+          "package_name": "com.example.emojiLogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ffDrkRQ36rVjBlHLl4is5GTiWO6rPdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
