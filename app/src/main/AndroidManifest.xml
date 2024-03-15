@@ -15,10 +15,13 @@
         android:theme="@style/Theme.EmojiLogin"
         tools:targetApi="31">
         <activity
+            android:name=".PlainLoginActivity"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity2"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".EmojiLoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
